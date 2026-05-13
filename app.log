@@ -1,0 +1,11 @@
+INFO server started
+INFO database connected
+ERROR timeout after 30s
+INFO user login: tanaka
+ERROR database connection failed
+WARNING memory usage 85%
+ERROR null pointer exception
+INFO backup completed
+ERROR new critical error!!
+ERROR new critical error
+ERROR disk full!
