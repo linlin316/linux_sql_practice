@@ -1,4 +1,6 @@
 #!/bin/bash
+cd /home/linlin/linux_sql_practice
+
 echo "=== 全ログファイル調査 ==="
 
 for FILE in *.log; do
